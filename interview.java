@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class interviewsevermind {
+public class Interview{
 
 	public static void main(String[] args) {
 		Scanner sc=new Scanner(System.in);
@@ -24,7 +24,7 @@ public class interviewsevermind {
 				
 			}
 			else {
-				for(int j=0;i<3;j++) {
+				for(int j=0;j<3;j++) {
 					if(j==1) {
 						System.out.print("1"+" ");
 					}
