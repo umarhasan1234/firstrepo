@@ -1,2 +1,2 @@
 # firstrepo
-this was created for the learn github.
+this was created for the learning github.
